@@ -21,12 +21,12 @@ I had not done any html or css in several months and I needed a referesher. This
 Then styling with CSS just takes time, especially with the layout, using flexbox, margins, padding, floats. 
 ### Screenshot
 
-(./images/screenshotqrcode.png)
+
 
 ### Links
 
 - Solution URL: https://github.com/JoDepp/QRcode
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:https://jodepp.github.io/QRcode/
 
 ## My process
 
@@ -41,6 +41,8 @@ Then styling with CSS just takes time, especially with the layout, using flexbox
 
 ### What I learned
 
+-After inital commit, my imagage did not come though, so I had to fix the file path. 
+-I was assisted with flexbox centering/aligning without using margins, thank you @correlucas
 -I always need more help with padding/margins, it doesn't seem to happen the fist time around for me, but it is fun and easy enought to try differnt ones until it looks correct. 
 -I reveiwed Flexbox a bit more. 
 
@@ -68,6 +70,6 @@ I don't feel completely comfortable to any of it yet :) So I just want to keep p
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thank you for the feedback @correlucas and help @Julio 
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
