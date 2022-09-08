@@ -3,14 +3,13 @@
 
 
 body {
-    font-family:'Outfit', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: hsl(212, 45%, 89%);
-    text-align: center;
-    margin: 80px;
-
+  min-height: 100vh;
+  font-family:'Outfit', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: hsl(212, 45%, 89%);
+  text-align: center;
 }
 
 .container {
